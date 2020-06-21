@@ -2,6 +2,7 @@
   "name": "goit-react-hw-02-feedbackk",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Timyr4ikon.github.io/goit-react-hw-02-feedbackk",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

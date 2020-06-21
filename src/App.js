@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import './App.css';
 import HeaderFeedback from './components/HeaderFeedback/HeaderFeedback';
 import Statistics from './components/Statistics/Statistics';
 import Section from './components/Section/Section';
